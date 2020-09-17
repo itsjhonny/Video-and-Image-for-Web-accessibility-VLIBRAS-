@@ -120,7 +120,7 @@ echo $result_libras_tanslate;
 /* for web_pages
 
  $url = $_GET["url"];
-  $libras_translate = new LibrasTranslate();
+ $libras_translate = new LibrasTranslate();
 
 */
 
