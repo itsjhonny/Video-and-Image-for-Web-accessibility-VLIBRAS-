@@ -1,0 +1,7 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.9",
+        "php-ffmpeg/php-ffmpeg": "^0.16.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
